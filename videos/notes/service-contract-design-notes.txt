@@ -1,0 +1,18 @@
+DATE: Nov 16, 2022
+RESOURCE: YouTube - "Service Contract Design" w/ Juval Lowy
+
+- Good design has the POTENTIAL for reuse (this doesn't mean you HAVE to reuse)
+- We intuitively judge reusable things as being designed well
+- NOTE: Services should have the potential for reuse, events should have the pot
+ential for reuse
+- EXAMPLE: Look at folder names ... names like Documents, Videos and Application
+s are reusable as opposed to names like NovemberMeetingNotes or UdemyProjects. P
+OTENTIALLY reusable folders are a better design than very specific or very broad
+ folders. 
+- REUSABLE = INDEPENDENT + COHERENT 
+- NOTE: Maybe this is also true for learning ... it is not good to study just on
+e resource just as it is not good to study a thousand ... a handful of resources
+ is probably best ... a handful of specialties 
+- Average 2-3 contracts per service
+- Have the courage to take your time with the design - do not rush, no one will
+understand
